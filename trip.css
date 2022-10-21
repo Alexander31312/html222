@@ -1,0 +1,79 @@
+.trap {
+    margin: auto;
+    max-width: 750px;
+}
+.op {
+    text-align: center;
+    text-shadow: 4px 4px 18px rgba(0,0,0);
+}
+.privet {
+    text-align: center;
+}
+body {
+    background: rgb(205, 201, 201);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(34, 33, 33);
+}
+.avatar {
+    box-shadow: 4px 4px 14px rgba(0,0,0);
+    border-radius: 14px 20px;
+}
+.itak {
+    text-align: center;
+    text-shadow: 4px 4px 18px rgba(0,0,0);
+}
+.op2 {
+    text-align: center;
+    text-shadow: 4px 4px 18px rgba(0,0,0);
+}
+.idea {
+    text-align: center;
+}
+.ul1 {
+    text-align: left;
+}
+.tablic {
+    text-align: center;
+}
+.inp label {
+    display: flex;
+    color: black;
+}
+.inp input, .inp textarea{
+background: transparent;
+outline: none;
+border: none;
+border-bottom: 1px solid black;
+width: 100%;
+margin-bottom: 20px;
+padding: 14px 20px;
+
+}
+.knop {
+    background: black;
+    color: rgb(255, 255, 255);
+    padding: 14px 20px;
+    cursor: pointer;
+}
+.vstup {
+    background: rgb(137, 193, 207);
+    border: 5px solid rgb(255, 115, 0);
+    border-radius: 30px;
+    padding: 12px 20px;
+}
+.ida2 {
+    background: rgb(225, 219, 30);
+    border: 5px solid rgb(255, 0, 0);
+    border-radius: 30px;
+    padding: 12px 20px;
+}
+.znaki {
+    text-align: left;
+}
+.ul2 {
+    background: rgb(203, 72, 29);
+    border: 5px solid rgb(0, 81, 255);
+    border-radius: 30px;
+    padding: 12px 20px;
+
+}
